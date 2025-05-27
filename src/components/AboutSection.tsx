@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { Target, Eye, Users, Globe } from 'lucide-react';
+import { Target, Eye, Users, Globe, Leaf } from 'lucide-react';
 
 const AboutSection = () => {
   return (
